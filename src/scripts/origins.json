@@ -126,6 +126,10 @@
     "url": "*://*.drupal.org/*",
     "name": "Drupal"
   },
+  "getdreamscope.appspot.com": {
+    "url": "*://getdreamscope.appspot.com/*",
+    "name": "DreamScope"
+  },
   "eproject.me": {
     "url": "*://*.eproject.me/*",
     "name": "Eproject.me"
